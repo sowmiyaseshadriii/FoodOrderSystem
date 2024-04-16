@@ -1,0 +1,85 @@
+[
+    {
+      "id": 1,
+      "category": "Noodle",
+      "items": [
+        {
+          "name": "Bee hoon",
+          "value": "Bee hoon",
+          "imageUrl": "/images/noodle/beehoon.jpg"
+        },
+        {
+          "name": "Laksa",
+          "value": "Laksa",
+          "imageUrl": "/images/noodle/laksa.jpg"
+        },
+        {
+          "name": "Lor mee",
+          "value": "Lor mee",
+          "imageUrl": "/images/noodle/lormee.jpg"
+        },
+        {
+          "name": "Japanese ramen",
+          "value": "Japanese ramen",
+          "imageUrl": "/images/noodle/ramen.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Rice",
+      "items": [
+        {
+          "name": "Wagyu don",
+          "value": "Wagyu don",
+          "imageUrl": "/images/rice/beefdon.jpg"
+        },
+        {
+          "name": "Chicken rice",
+          "value": "Chicken rice",
+          "imageUrl": "/images/rice/chickenrice.jpg"
+        },
+        {
+          "name": "Pork cutlet rice",
+          "value": "Pork cutlet rice",
+          "imageUrl": "/images/rice/cutletrice.jpg"
+        },
+        {
+          "name": "Uncle Roger's fried rice",
+          "value": "Uncle Roger's fried rice",
+          "imageUrl": "/images/rice/friedrice.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Side Dish",
+      "items": [
+        {
+          "name": "8 Dumplings",
+          "value": "8 Dumplings",
+          "imageUrl": "/images/sideDish/dumpling.jpg"
+        },
+        {
+          "name": "Fried eggplants",
+          "value": "Fried eggplants",
+          "imageUrl": "/images/sideDish/friedeggplant.jpg"
+        },
+        {
+          "name": "Cheese fries",
+          "value": "Cheese fries",
+          "imageUrl": "/images/sideDish/fries.jpg"
+        },
+        {
+          "name": "Calamari",
+          "value": "Calamari",
+          "imageUrl": "/images/sideDish/calamari.jpg"
+        },
+        {
+          "name": "Satay",
+          "value": "Satay",
+          "imageUrl": "/images/sideDish/satay.jpg"
+        }
+      ]
+    }
+  ]
